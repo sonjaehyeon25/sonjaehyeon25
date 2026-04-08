@@ -1,6 +1,9 @@
-## Hi there 👋 hi my name is Sonjaehyeon
-안녕
-
+## Hi there 👋 hello my name is Sonjaehyeon
+I major in computer science at university
+I’ve been learning C++ recently.
+안녕하세요 제 손재현입니다.
+저는 컴퓨터공학전공 대학생이예요.
+저는 최근 C++를 공부 중이예요.
 
 <!--
 **sonjaehyeon25/sonjaehyeon25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
