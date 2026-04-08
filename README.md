@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 hi my name is Sonjaehyeon
+안녕
+
 
 <!--
 **sonjaehyeon25/sonjaehyeon25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
