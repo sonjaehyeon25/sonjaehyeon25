@@ -5,6 +5,12 @@ I’ve been learning C++ recently.
 저는 컴퓨터공학전공 대학생이예요.
 저는 최근 C++를 공부 중이예요.
 
+---
+## 자기소개
+이름:손재현
+학과:컴퓨터공학전공
+---
+
 <!--
 **sonjaehyeon25/sonjaehyeon25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
